@@ -1,6 +1,8 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "com.goroute.user",
@@ -8,6 +10,18 @@
         "C8:67:A1:66:B7:96:7D:95:56:F0:04:07:6A:6A:58:D3:AE:F9:C9:11:E7:B7:26:B4:F3:3A:F1:11:B4:83:F4:C5",
         "34:A8:56:EB:04:FC:F9:26:5A:8B:98:96:5A:A4:2B:79:AF:06:97:9E:10:ED:E9:F5:70:0F:7B:74:95:CE:5D:B2",
         "30:C9:1D:02:88:B4:F6:C4:51:B2:A6:8A:56:71:B7:8F:A8:EB:07:4D:57:65:86:B4:02:DE:72:4C:F8:2D:C8:20"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.goroute.kuryer",
+      "sha256_cert_fingerprints": [
+        "B2:02:E4:5C:B0:42:55:98:20:F3:F1:F8:FA:35:54:86:3B:9A:2D:A7:B7:71:BF:DE:2C:E7:D2:08:7B:75:5E:79"
       ]
     }
   }
